@@ -1,6 +1,5 @@
 import React , {useRef,useState} from 'react';
-import styles from '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';
-import { MainContainer, ChatContainer, MessageList, Message, MessageInput,ConversationHeader,Avatar,VoiceCallButton,VideoCallButton,InfoButton } from '@chatscope/chat-ui-kit-react';
+import { ChatContainer, MessageList, Message, MessageInput,ConversationHeader,Avatar,VoiceCallButton,VideoCallButton,InfoButton } from '@chatscope/chat-ui-kit-react';
 import NavBar from './NavBar';
 function Chat(props) {
     const inputRef = useRef();

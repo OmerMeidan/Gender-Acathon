@@ -13,8 +13,6 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import Bookmarks from "@mui/icons-material/Bookmarks";
-import LoginIcon from "@mui/icons-material/Login";
-import AppRegistrationIcon from "@mui/icons-material/AppRegistration";
 import GradeIcon from '@mui/icons-material/Grade';
 import LogoutIcon from "@mui/icons-material/Logout";
 import SchoolIcon from '@mui/icons-material/School';

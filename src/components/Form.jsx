@@ -1,6 +1,4 @@
 import React from 'react';
-// import mandance from './images/mandance.jpg'
-// import woman from './images/womansoccer.jpg'
 import '../del.css'
 import NavBar from './NavBar';
 
@@ -40,6 +38,8 @@ const DeleteMe = () => {
             }}
             className="hey"
           />
+
+
         </div>
         <br />
         <div style={{display:"flex", justifyContent:"center"}}>
